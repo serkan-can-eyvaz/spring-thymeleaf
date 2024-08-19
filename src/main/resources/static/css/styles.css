@@ -1,0 +1,16 @@
+/* Arka plan rengi ve padding ayarları */
+.contact-section {
+    background: rgba(0, 0, 0, 0.5) url('/images/nerdeyiz-foto.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 50px 0; /* Üst ve alt padding değerlerini ayarlayın */
+}
+
+.about-section {
+    background: rgba(0, 0, 0, 0.5) url('/images/about-bg.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 50px 0; /* Üst ve alt padding değerlerini ayarlayın */
+}
+
+.text-white {
+    color: #ffffff; /* Metin rengini beyaz yapar */
+}
